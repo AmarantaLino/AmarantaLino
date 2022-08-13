@@ -1,7 +1,8 @@
 ###  Olá eu sou a AMARANTA LINO, tenho 21 anos e esse é meu Readme, para conhecerem um pouco mais sobre mim:
 - 🌱 Atualmente estou aprendendo Python, manipulação, estrações de dados e introdução a machine learning.
 - ✏️ Já aprendi bastante coisa sobre JAVA e modelagem MVC para desenvolvimento de sistemas.
-- ⚡ Sou formada em 2 Graduações: Análise e Desenvolvimento de Sistemas e Sistemas de Informação. Atualmente estou fazendo Pós Graduação em Ciência de Dados e Big Data na PUC, que é a área que mais me identifico.
+- ⚡ Sou formada em 2 Graduações: Análise e Desenvolvimento de Sistemas e Sistemas de Informação.
+- 🎲 Atualmente estou fazendo Pós Graduação em Ciência de Dados e Big Data na PUC, que é a área que mais me identifico.
 - 👩‍💻 Fiz meu TCC da 2º graduação como Full Stack, ou seja, trabalhei em todas as áreas durante o desenvolvimento.
 - 💡 Com isso, aprendi muito mais sobre JS, HTML, CSS, JSP, Banco de Dados SQL com criação de Triggers e Querys
 
