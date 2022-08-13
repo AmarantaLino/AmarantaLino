@@ -1,7 +1,7 @@
-###  Olá eu sou a AMARANTA LINO, tenho 20 anos e esse é meu Readme, para conhecerem um pouco mais sobre mim:
+###  Olá eu sou a AMARANTA LINO, tenho 21 anos e esse é meu Readme, para conhecerem um pouco mais sobre mim:
 - 🌱 Atualmente estou aprendendo Python, manipulação e estrações de dados
 - ✏️ Já aprendi bastante coisa sobre JAVA e modelagem MVC para desenvolvimento de sistemas.
-- ⚡ Sou formada em 2 Graduações: Análise e Desenvolvimento de Sistemas e Sistemas de Informação. Sou muito curiosa e atualmente estou fazendo vários cursinhos a parte.
+- ⚡ Sou formada em 2 Graduações: Análise e Desenvolvimento de Sistemas e Sistemas de Informação. Sou muito curiosa e atualmente estou fazendo Pós Graduação em Ciência de Dados e Big Data, que é a área que mais me identifico.
 - 👩‍💻 Fiz meu TCC como Full Stack, ou seja, trabalhei em todas as áreas durante o desenvolvimento.
 - 💡 Com isso, aprendi muito mais sobre JS, HTML, CSS, JSP, Banco de Dados SQL com criação de Triggers e Querys
 
@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
