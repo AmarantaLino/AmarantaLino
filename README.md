@@ -1,4 +1,4 @@
-###  Olá eu sou a AMARANTA LINO, tenho 21 anos e esse é meu Readme, para conhecerem um pouco mais sobre mim:
+###  Olá eu sou a AMARANTA LINO, tenho 22 anos e esse é meu Readme, para conhecerem um pouco mais sobre mim:
 - 🌱 Atualmente estou aprendendo Python, manipulação, estrações de dados e introdução a machine learning.
 - ✏️ Já aprendi bastante coisa sobre JAVA e modelagem MVC para desenvolvimento de sistemas.
 - ⚡ Sou formada em 2 Graduações: Análise e Desenvolvimento de Sistemas e Sistemas de Informação.
